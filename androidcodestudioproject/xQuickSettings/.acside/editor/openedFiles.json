@@ -1,0 +1,65 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/xQuickSettings/app/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 16,
+          "index": 317,
+          "line": 7
+        },
+        "start": {
+          "column": 16,
+          "index": 317,
+          "line": 7
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/xQuickSettings/app/src/main/kotlin/com/xthan/xquicksettings/MainActivity.kt",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 995,
+          "line": 31
+        },
+        "start": {
+          "column": 1,
+          "index": 995,
+          "line": 31
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/xQuickSettings/app/src/main/res/values/strings.xml",
+      "selection": {
+        "end": {
+          "column": 12,
+          "index": 1869,
+          "line": 30
+        },
+        "start": {
+          "column": 12,
+          "index": 1869,
+          "line": 30
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/xQuickSettings/app/src/main/res/layout/activity_main.xml",
+      "selection": {
+        "end": {
+          "column": 24,
+          "index": 3920,
+          "line": 101
+        },
+        "start": {
+          "column": 24,
+          "index": 3920,
+          "line": 101
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/xQuickSettings/app/src/main/AndroidManifest.xml"
+}

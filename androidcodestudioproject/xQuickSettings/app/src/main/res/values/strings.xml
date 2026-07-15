@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">xQuickSettings</string>
+
+    <!-- Main Dashboard UI -->
+    <string name="main_title">xQuickSettings</string>
+    <string name="main_desc">This application registers system Quick Settings tiles on your device to let you interact with settings and hardware features without clicking physical buttons.</string>
+    <string name="tile_guide_title">Available Tiles Guide</string>
+
+    <!-- Volume Tile -->
+    <string name="tile_volume_label">Volume</string>
+    <string name="tile_volume_subtitle">Adjust volume levels</string>
+    <string name="desc_volume">Opens the default visual system volume slider panel immediately on-screen so you do not have to click the physical hardware volume keys.</string>
+
+    <!-- Navigation Mode Tile -->
+    <string name="tile_nav_label">Navigation mode</string>
+    <string name="tile_nav_subtitle">Choose system navigation</string>
+    <string name="desc_nav">Deep-links you directly to Android\'s Navigation Mode settings sub-page to toggle easily between 3-Button and Gesture navigation setups.</string>
+
+    <!-- Rotation Tile -->
+    <string name="tile_rotation_label">Rotation Orientation</string>
+    <string name="tile_rotation_subtitle_auto">Auto-rotate</string>
+    <string name="tile_rotation_subtitle_forced">Forced: %s</string>
+    <string name="desc_rotation">Opens an overlay dialog to select a system-wide force rotation direction. Selecting the last option disables overriding and reverts layout handling back to Android\'s default auto-rotate engine.</string>
+
+    <!-- Rotation Dialog Options -->
+    <string name="rotation_up">up</string>
+    <string name="rotation_down">down</string>
+    <string name="rotation_left">left</string>
+    <string name="rotation_right">right</string>
+    <string name="rotation_free">Disable forcing and toggle Auto-rotate</string>
+</resources>
