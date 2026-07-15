@@ -6,4 +6,7 @@ a collection of useful quick settings tiles not included in Android by default
 
 
 
-![demo](sr.gif)
+![demo](sr.gif)  
+
+
+pro tip: if rotstion isnt working makensure another app like tasker hasnt already forced rotation and makesurenthat display autonrotatr is enabkedninnsettings 
